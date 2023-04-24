@@ -2,4 +2,6 @@ if game.PlaceId == 12802235086 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/D4rk37/Infinite-Rarities-GUI/main/Infinite%20Rarities%20GUI"))()
 elseif game.PlaceId == 286090429 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/D4rk37/Arsenal/main/Arsenal"))()
+elseif game.PlaceId == 8540346411 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/D4rk37/Rebirth-Champions-X/main/Loader"))()
 end
