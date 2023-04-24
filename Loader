@@ -4,4 +4,6 @@ elseif game.PlaceId == 286090429 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/D4rk37/Arsenal/main/Arsenal"))()
 elseif game.PlaceId == 8540346411 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/D4rk37/Rebirth-Champions-X/main/Loader"))()
+else 
+	game.Players.LocalPlayer:Kick("Game Not Supported.\n\nPlease Join discord.gg/pp4FUR2Pmj to view supported games.")
 end
