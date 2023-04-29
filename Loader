@@ -31,6 +31,6 @@ elseif game.PlaceId == 286090429 then
 elseif game.PlaceId == 8540346411 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/D4rk37/Rebirth-Champions-X/main/Loader"))()
 else 
-	setclipboard('https://discord.gg/pp4FUR2Pmj")
+	setclipboard('https://discord.gg/pp4FUR2Pmj')
 	game.Players.LocalPlayer:Kick("Game Not Supported.\n\nInvite Copied, Join to view Supported Games!")
 end
